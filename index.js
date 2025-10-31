@@ -1,5 +1,4 @@
-console.log("Welcome to the My git Learning");
-
-for(let i=0; i<5; i++){
-    console.log("san");
+console.log("Welcome to the My git Playlist");
+for(var i=0; i<5; i++){
+    console.log("Sudhar");
 }
